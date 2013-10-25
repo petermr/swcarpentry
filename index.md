@@ -7,8 +7,5 @@ Here is a larger paragraph. I want to put in a chunk.
 And it's got several lines
 Mountains in UK. I have climbed Helvellyn, but not Sca Fell
 
-Mount finctionalis tallest mountain
-
-More change
 
 
